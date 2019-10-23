@@ -36,9 +36,12 @@ if(!isset($global['systemRootPath'])){
                 <p><?php echo __("La majorité des vidéos sont disponibles sur YouTube et ne sont ici que pour faire un tri dans la multitude de vidéos du site d'origine"); ?></p>
                 <p><?php echo __("BledTube étant une déviation humourisique du nom d'origine dont le gestionnaire de contenu lui en étant une aussi"); ?></p>
                 <p><?php echo __("J'aimerais juste garder le à propos d'origine pour que vous sachiez quelles sont les motivations à rester dans la légalité et comment le site est construit"); ?></p>
-                <h1><?php echo __("I would humbly like to thank God for giving me the necessary knowledge, motivation, resources and idea to be able to execute this project. Without God's permission this would never be possible."); ?></h1>
+
+                <h1><?php echo __("Mots du développeur"); ?></h1>
+
+                <p><?php echo __("I would humbly like to thank God for giving me the necessary knowledge, motivation, resources and idea to be able to execute this project. Without God's permission this would never be possible."); ?></p>
                 <blockquote class="blockquote">
-                    <h1><?php echo __("For of Him, and through Him, and to Him, are all things: to whom be glory for ever. Amen."); ?></h1>
+                    <p><?php echo __("For of Him, and through Him, and to Him, are all things: to whom be glory for ever. Amen."); ?></p>
                     <footer class="blockquote-footer">Apostle Paul in <cite title="Source Title">Romans 11:36</cite></footer>
                 </blockquote>
                 <div class="btn-group btn-group-justified">
@@ -68,7 +71,7 @@ if(!isset($global['systemRootPath'])){
 
         </div><!--/.container-->
         <?php
-        include $global['systemRootPath'] . 'view/include/footer.php';
+        //include $global['systemRootPath'] . 'view/include/footer.php';
         ?>
 
         <script>
