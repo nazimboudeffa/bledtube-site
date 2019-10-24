@@ -26,7 +26,7 @@ if (User::isLogged()) {
     <div class="container list-group-item" style="height:200px">
 
 <h1>Contact</h1>
-<p>Pour nous contacter merci de passer par la page <a href="https://www.facebook.com/pg/BledTube-106102940819597">Facebook</a></p>
+<p>Pour nous contacter merci de passer par la page <a href="https://www.facebook.com/pg/BledTube-106102940819597" style="text-decoration: underline dotted;">Facebook</a></p>
 
     </div><!--/.container-->
 
