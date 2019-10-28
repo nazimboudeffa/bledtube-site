@@ -30,8 +30,8 @@ if (User::isLogged()) {
 <p>Actuellement nous utilisons les sous domaines suivants</p>
 <ul>
   <li>www.bledtube.com /// Production</li>
-  <li>test.bledtube.com /// Tests</li>
-  <li>dev.bledtube.com /// Développements</li>
+  <li>test.bledtube.com /// Tests ou Développements</li>
+  <li>clone.bledtube.com /// juste un clone de la branche master du repo original</li>
 </ul>
 <p>Si vous trouvez un bug merci de nous le signaler par le même moyen</p>
 <p>Si vous souhaitez avoir votre copie du serveur RDV sur github.com/YouPHPTube/YouPHPTube</p>
