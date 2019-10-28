@@ -38,6 +38,7 @@ $theme = $config->getTheme();
 <meta name="language" content="FR" />
 <meta name="copyright" content="© 2019 BledTube" />
 <meta name="robots" content="All" />
+<meta name="google-site-verification" content="pLor7ovlQDALHV52LL2_ay79tqrRYYV8ZyEyInGPDU0" />
 
 <link rel="icon" href="<?php echo $global['webSiteRootURL']; ?>view/img/favicon.png">
 <!-- <link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 768px)" href="view/css/mobile.css" /> -->

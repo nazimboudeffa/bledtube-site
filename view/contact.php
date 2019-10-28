@@ -23,11 +23,15 @@ if (User::isLogged()) {
         include $global['systemRootPath'] . 'view/include/navbar.php';
         ?>
 
-    <div class="container list-group-item" style="height:200px">
+    <div class="container list-group-item" style="height:300px">
 
 <h1>Contact</h1>
 <p>Pour nous contacter merci de passer par la page <a href="https://www.facebook.com/pg/BledTube-106102940819597" style="text-decoration: underline dotted;">Facebook</a></p>
-
+<p>Si vous trouvez un bug merci de nous le signaler par le même moyen</p>
+<p>Le serveur coûte actuellement 9.99€ / an + (3.59 / mois) + (4.50 /mois) pour le moment</p>
+<p>Le serveur est hébérgé chez OVH.COM et les vidéos sont sur WASABI.COM c'est pour cela que l'on ne peut pas uploader via un compte utilisateur et seul les admins peuvent le faire</p>
+<p>Si vous souhaitez suggerer des vidéos faite le toujours par la page Facebook</p>
+<p>Merci</p>
     </div><!--/.container-->
 
     <?php
